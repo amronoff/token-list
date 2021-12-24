@@ -58231,6 +58231,20 @@
     },
     {
       "chainId": 101,
+      "address": "BjtxXLPKASpmVdo9323uLNt9QqFmzb1Nkn1HJ6E7Aqpc",
+      "symbol": "ROA",
+      "name": "ROA_AMRON",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/BjtxXLPKASpmVdo9323uLNt9QqFmzb1Nkn1HJ6E7Aqpc/logo.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://remoraprevisiontrade.systeme.io/82c90222"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "4cwKg4T5XM4heJ3XWFBg9ZXxbcnJb2ehqQqoCnewoPk4",
       "symbol": "SCAM_5480",
       "name": "SCAM TOKEN PLEASE IGNORE",
